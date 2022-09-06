@@ -1,12 +1,13 @@
 <template>
-  <div>
 
-  </div>
 </template>
 
 <script>
-
 export default {
-  name: 'HomeView',
+  name: "Navbar"
 }
 </script>
+
+<style scoped>
+
+</style>
